@@ -14,35 +14,26 @@ half_group = InlineKeyboardMarkup(inline_keyboard=[
 ])
 
 anoth_w = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton('Белая',
-                          callback_data='Another_Week_White'),
-     InlineKeyboardButton('Зелёная',
-     callback_data='Another_Week_Green')],
+    [InlineKeyboardButton('Белая', callback_data='Another_Week_White'),
+     InlineKeyboardButton('Зелёная', callback_data='Another_Week_Green')],
 ])
 
 anoth_d = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton('Понедельник',
-                          callback_data='Another_Day_pn'),
-     InlineKeyboardButton('Вторник',
-                          callback_data='Another_Day_vt'),
-     InlineKeyboardButton('Среда',
-     callback_data='Another_Day_sr')],
-    [InlineKeyboardButton('Четверг',
-                          callback_data='Another_Day_ct'),
-     InlineKeyboardButton('Пятница',
-                          callback_data='Another_Day_pt'),
-     InlineKeyboardButton('Суббота',
-     callback_data='Another_Day_sb')],
+    [InlineKeyboardButton('Понедельник', callback_data='Another_Day_pn'),
+     InlineKeyboardButton('Вторник', callback_data='Another_Day_vt'),
+     InlineKeyboardButton('Среда', callback_data='Another_Day_sr')],
+    [InlineKeyboardButton('Четверг', callback_data='Another_Day_ct'),
+     InlineKeyboardButton('Пятница', callback_data='Another_Day_pt'),
+     InlineKeyboardButton('Суббота', callback_data='Another_Day_sb')],
 ])
+
 anoth_show = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton('Показать', callback_data='a_show')]
 ])
 
 yest = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton('Вчера',
-                          callback_data='Another_Day_Yesterday'),
-     InlineKeyboardButton('Завтра',
-     callback_data='Another_Day_Tomorday')],
+    [InlineKeyboardButton('Вчера', callback_data='Another_Day_Yesterday'),
+     InlineKeyboardButton('Завтра', callback_data='Another_Day_Tomorday')],
 ])
 
 all_day_key = InlineKeyboardMarkup(inline_keyboard=[
