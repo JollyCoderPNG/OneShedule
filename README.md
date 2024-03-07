@@ -11,7 +11,7 @@
     <li>🤖 Seamless integration with Telegram, making it accessible and convenient for users.</li>
 </ul>
 
-<img src="image/readme_photo_2.png" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="image/readme_photo_2.png" align="center"">
 
 <h2>Benefits</h2>
 <ul style="font-size: 20px">
