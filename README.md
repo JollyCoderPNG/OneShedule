@@ -1,6 +1,6 @@
 <h1>Telegram One Bot 🤖</h1>
 
-<p">Welcome to the One! This bot is designed to make managing your schedule a breeze.</p>
+<p>Welcome to the One! This bot is designed to make managing your schedule a breeze.</p>
 
 <h2>Features</h2>
 <ul>
